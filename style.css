@@ -1,0 +1,50 @@
+body {
+    background-color: lightblue;
+}
+html, body {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+    font-family: 'Tangerine', serif;
+    font-weight: bold;
+    color: #000;
+    font-size: 48px;
+}
+p, li {
+    text-align: center;
+    color: #00F;
+}
+em {
+    color: #F00;
+}
+li {
+    text-align: left;
+    list-style: square;
+    margin: 10px;
+}
+a:hover, a:visited, a:link, a:active {
+    text-decoration: none;
+}
+.img-circle {
+    border-radius: 10%;
+}
+img {
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+}
+img:hover {
+    opacity: 1.0;
+    filter: alpha(opacity=100); 
+}
+pre {
+    color: #FFF;
+    background-color: black;
+    margin: 5px;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+table {
+    border-style: solid;
+    padding-left: 10px; 
+}
