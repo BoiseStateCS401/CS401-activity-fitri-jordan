@@ -43,8 +43,12 @@ pre {
     margin: 5px;
     padding-right: 50px;
     padding-left: 50px;
+    margin-left: auto;
+    margin-right: auto;
 }
 table {
     border-style: solid;
     padding-left: 10px; 
+    margin-left: auto;
+    margin-right: auto;
 }
