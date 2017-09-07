@@ -20,8 +20,10 @@ em {
 }
 li {
     text-align: left;
-    list-style: square;
     margin: 10px;
+}
+li ul {
+    list-style: square;
 }
 a:hover, a:visited, a:link, a:active {
     text-decoration: none;
