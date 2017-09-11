@@ -1,5 +1,8 @@
 # My First Website
 
+## Website URL
+* https://boisestatecs401.github.io/CS401-activity-fitri-jordan/
+
 ## Learning Objectives
 
 * Create a well-designed web page using semantic HyperText Markup Language (HTML) and Cascading Style Sheets (CSS).
